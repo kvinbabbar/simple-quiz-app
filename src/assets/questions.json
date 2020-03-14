@@ -1,0 +1,228 @@
+{
+    "questions": {
+        "html": [
+            {
+                "id": 1,
+                "question": "HTML stands for?",
+                "answers": [
+                    {
+                        "answer": "Hyper Text Markup Language",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "High Text Markup Language",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "Hyper Tabular Markup Language",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "isAnswer": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "question": "which of the following tag is used to mark a begining of paragraph ?",
+                "answers": [
+                    {
+                        "answer": "<TD>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<br>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<P>",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "<TR>",
+                        "isAnswer": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "question": "From which tag descriptive list starts ?",
+                "answers": [
+                    {
+                        "answer": "<LL>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<DD>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<DL>",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "<DS>",
+                        "isAnswer": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "question": "Correct HTML tag for the largest heading is",
+                "answers": [
+                    {
+                        "answer": "<head>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<h6>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<heading>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<h1>",
+                        "isAnswer": true
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "question": "Apart from <b> tag, what other tag makes text bold ?",
+                "answers": [
+                    {
+                        "answer": "<fat>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<strong>",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "<black>",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "<emp>",
+                        "isAnswer": false
+                    }
+                ]
+            }
+        ],
+        "javascript": [
+            {
+                "id": 1,
+                "question": "Why so JavaScript and Java have similar name?",
+                "answers": [
+                    {
+                        "answer": "JavaScript is a stripped-down version of Java",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "JavaScript's syntax is loosely based on Java's",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "They both originated on the island of Java",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "None of the above",
+                        "isAnswer": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "question": "When a user views a page containing a JavaScript program, which machine actually executes the script?",
+                "answers": [
+                    {
+                        "answer": "The User's machine running a Web browser",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "The Web server",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "A central machine deep within Netscape's corporate offices",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "None of the above",
+                        "isAnswer": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "question": "What are variables used for in JavaScript Programs?",
+                "answers": [
+                    {
+                        "answer": "Storing numbers, dates, or other values",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "Varying randomly",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "Causing high-school algebra flashbacks",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "None of the above",
+                        "isAnswer": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "question": "Which of the following can't be done with client-side JavaScript?",
+                "answers": [
+                    {
+                        "answer": "Validating a form",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "Sending a form's contents by email",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "Storing the form's contents to a database file on the server",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "None of the above",
+                        "isAnswer": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "question": "Which of the following are capabilities of functions in JavaScript?",
+                "answers": [
+                    {
+                        "answer": "Return a value",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "Accept parameters and Return a value",
+                        "isAnswer": false
+                    },
+                    {
+                        "answer": "Accept parameters",
+                        "isAnswer": true
+                    },
+                    {
+                        "answer": "None of the above",
+                        "isAnswer": false
+                    }
+                ]
+            }
+        ]
+    }
+}
